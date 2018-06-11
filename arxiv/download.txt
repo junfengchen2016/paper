@@ -1,0 +1,6 @@
+https://arxiv.org/pdf/1503.03832
+  out=1503.03832.pdf
+https://arxiv.org/pdf/1704.02470
+  out=1704.02470.pdf
+https://arxiv.org/pdf/1706.03762
+  out=1706.03762.pdf
