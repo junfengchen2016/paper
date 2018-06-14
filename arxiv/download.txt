@@ -4,6 +4,8 @@ https://arxiv.org/pdf/1503.03832
   out=1503.03832.pdf
 https://arxiv.org/pdf/1602.07261
   out=1602.07261.pdf  
+https://arxiv.org/pdf/1604.02878
+  out=1604.02878.pdf  
 https://arxiv.org/pdf/1704.02470
   out=1704.02470.pdf
 https://arxiv.org/pdf/1706.03762
