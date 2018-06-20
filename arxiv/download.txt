@@ -14,5 +14,5 @@ https://arxiv.org/pdf/1801.04381
   out=1801.04381.pdf
 https://arxiv.org/pdf/1802.02611
   out=1802.02611.pdf
-https://arxiv.org/abs/1805.01934  
+https://arxiv.org/pdf/1805.01934  
   out=1805.01934.pdf
