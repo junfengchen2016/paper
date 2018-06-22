@@ -4,6 +4,7 @@
 
 |标题|URL|star|note|
 |-|-|-|-|
+|Scalable Object Detection using Deep Neural Networks|[1312.2249](https://arxiv.org/abs/1312.2249)||
 |Very Deep Convolutional Networks for Large-Scale Image Recognition|[1409.1556](https://arxiv.org/abs/1409.1556)||
 |FaceNet: A Unified Embedding for Face Recognition and Clustering|[1503.03832](https://arxiv.org/abs/1503.03832)|★★★★★|facenet|
 |Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|[1602.07261](http://arxiv.org/abs/1602.07261)||
