@@ -91,6 +91,9 @@ http://cn.arxiv.org/pdf/1803.02155v2
 http://cn.arxiv.org/pdf/1803.03382v6
   out=1803.03382v6.pdf
   dir=arxiv
+http://cn.arxiv.org/pdf/1803.07416v1
+  out=1803.07416v1.pdf
+  dir=arxiv
 http://cn.arxiv.org/pdf/1804.00247v2
   out=1804.00247v2.pdf
   dir=arxiv

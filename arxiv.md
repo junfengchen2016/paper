@@ -34,5 +34,6 @@
 |29|[1802.05751](http://cn.arxiv.org/abs/1802.05751)|Image Transformer||
 |30|[1803.02155](http://cn.arxiv.org/abs/1803.02155)|Self-Attention with Relative Position Representations||
 |31|[1803.03382](http://cn.arxiv.org/abs/1803.03382)|Fast Decoding in Sequence Models using Discrete Latent Variables||
-|32|[1804.00247](http://cn.arxiv.org/abs/1804.00247)|Training Tips for the Transformer Model||
-|33|[1804.04235](http://cn.arxiv.org/abs/1804.04235)|Adafactor: Adaptive Learning Rates with Sublinear Memory Cost||
+|32|[1803.07416](http://cn.arxiv.org/abs/1803.07416)|Tensor2Tensor for Neural Machine Translation|tensor2tensor|
+|33|[1804.00247](http://cn.arxiv.org/abs/1804.00247)|Training Tips for the Transformer Model||
+|34|[1804.04235](http://cn.arxiv.org/abs/1804.04235)|Adafactor: Adaptive Learning Rates with Sublinear Memory Cost||

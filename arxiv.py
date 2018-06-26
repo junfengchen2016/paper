@@ -41,9 +41,9 @@ def process(infos):
         note = infos[i*2 + 1]
         print(i, id)
         url_abs = 'http://cn.arxiv.org/abs/{0}'.format(id)
-        # driver.get(url_abs)
         html=urllib.request.urlopen(url_abs).read()
         soup_html = BeautifulSoup(html, features='lxml')
+        # driver.get(url_abs)        
         # soup_html = BeautifulSoup(driver.page_source, features='lxml')
         title, version = analysis_html(soup_html)
         list1.append({'id': id, 'title':title, 'version': version, 'note': note})
@@ -85,6 +85,7 @@ def main(argv):
         '1802.05751', '',
         '1803.02155', '',
         '1803.03382', '',
+        '1803.07416', 'tensor2tensor',
         '1804.00247', '',
         '1804.04235', '',
     ]
