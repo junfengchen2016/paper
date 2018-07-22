@@ -5,6 +5,8 @@ import time
 from bs4 import BeautifulSoup
 import codecs
 import urllib
+import urllib.request
+
 # from selenium import webdriver
 
 def analysis_html(soup_html):
