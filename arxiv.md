@@ -25,15 +25,16 @@
 |20|[1706.05137](http://cn.arxiv.org/abs/1706.05137)|One Model To Learn Them All||
 |21|[1707.07012](http://cn.arxiv.org/abs/1707.07012)|Learning Transferable Architectures for Scalable Image Recognition||
 |22|[1708.05509](http://cn.arxiv.org/abs/1708.05509)|Towards the Automatic Anime Characters Creation with Generative  Adversarial Networks||
-|23|[1710.10196](http://cn.arxiv.org/abs/1710.10196)|Progressive Growing of GANs for Improved Quality, Stability, and  Variation||
-|24|[1712.00559](http://cn.arxiv.org/abs/1712.00559)|Progressive Neural Architecture Search||
-|25|[1801.04381](http://cn.arxiv.org/abs/1801.04381)|MobileNetV2: Inverted Residuals and Linear Bottlenecks||
-|26|[1801.09797](http://cn.arxiv.org/abs/1801.09797)|Discrete Autoencoders for Sequence Models||
-|27|[1801.10198](http://cn.arxiv.org/abs/1801.10198)|Generating Wikipedia by Summarizing Long Sequences||
-|28|[1802.02611](http://cn.arxiv.org/abs/1802.02611)|Encoder-Decoder with Atrous Separable Convolution for Semantic Image  Segmentation||
-|29|[1802.05751](http://cn.arxiv.org/abs/1802.05751)|Image Transformer||
-|30|[1803.02155](http://cn.arxiv.org/abs/1803.02155)|Self-Attention with Relative Position Representations||
-|31|[1803.03382](http://cn.arxiv.org/abs/1803.03382)|Fast Decoding in Sequence Models using Discrete Latent Variables||
-|32|[1803.07416](http://cn.arxiv.org/abs/1803.07416)|Tensor2Tensor for Neural Machine Translation|tensor2tensor|
-|33|[1804.00247](http://cn.arxiv.org/abs/1804.00247)|Training Tips for the Transformer Model||
-|34|[1804.04235](http://cn.arxiv.org/abs/1804.04235)|Adafactor: Adaptive Learning Rates with Sublinear Memory Cost||
+|23|[1708.02002](http://cn.arxiv.org/abs/1708.02002)|Focal Loss for Dense Object Detection|RetinaNet|
+|24|[1710.10196](http://cn.arxiv.org/abs/1710.10196)|Progressive Growing of GANs for Improved Quality, Stability, and  Variation||
+|25|[1712.00559](http://cn.arxiv.org/abs/1712.00559)|Progressive Neural Architecture Search||
+|26|[1801.04381](http://cn.arxiv.org/abs/1801.04381)|MobileNetV2: Inverted Residuals and Linear Bottlenecks||
+|27|[1801.09797](http://cn.arxiv.org/abs/1801.09797)|Discrete Autoencoders for Sequence Models||
+|28|[1801.10198](http://cn.arxiv.org/abs/1801.10198)|Generating Wikipedia by Summarizing Long Sequences||
+|29|[1802.02611](http://cn.arxiv.org/abs/1802.02611)|Encoder-Decoder with Atrous Separable Convolution for Semantic Image  Segmentation||
+|30|[1802.05751](http://cn.arxiv.org/abs/1802.05751)|Image Transformer||
+|31|[1803.02155](http://cn.arxiv.org/abs/1803.02155)|Self-Attention with Relative Position Representations||
+|32|[1803.03382](http://cn.arxiv.org/abs/1803.03382)|Fast Decoding in Sequence Models using Discrete Latent Variables||
+|33|[1803.07416](http://cn.arxiv.org/abs/1803.07416)|Tensor2Tensor for Neural Machine Translation|tensor2tensor|
+|34|[1804.00247](http://cn.arxiv.org/abs/1804.00247)|Training Tips for the Transformer Model||
+|35|[1804.04235](http://cn.arxiv.org/abs/1804.04235)|Adafactor: Adaptive Learning Rates with Sublinear Memory Cost||

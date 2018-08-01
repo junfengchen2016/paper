@@ -64,11 +64,14 @@ http://cn.arxiv.org/pdf/1707.07012v4
 http://cn.arxiv.org/pdf/1708.05509v1
   out=1708.05509v1.pdf
   dir=arxiv
+http://cn.arxiv.org/pdf/1708.02002v2
+  out=1708.02002v2.pdf
+  dir=arxiv
 http://cn.arxiv.org/pdf/1710.10196v3
   out=1710.10196v3.pdf
   dir=arxiv
-http://cn.arxiv.org/pdf/1712.00559v2
-  out=1712.00559v2.pdf
+http://cn.arxiv.org/pdf/1712.00559v3
+  out=1712.00559v3.pdf
   dir=arxiv
 http://cn.arxiv.org/pdf/1801.04381v3
   out=1801.04381v3.pdf
