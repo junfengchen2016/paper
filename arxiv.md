@@ -18,7 +18,7 @@
 |13|[1611.02200](http://cn.arxiv.org/abs/1611.02200)|Unsupervised Cross-Domain Image Generation||
 |14|[1703.10593](http://cn.arxiv.org/abs/1703.10593)|Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial  Networks||
 |15|[1704.02470](http://cn.arxiv.org/abs/1704.02470)|DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks||
-|16|[1704.03549](http://cn.arxiv.org/abs/1704.03549)|Attention-based Extraction of Structured Information from Street View  Imagery||
+|16|[1704.03549](http://cn.arxiv.org/abs/1704.03549)|Attention-based Extraction of Structured Information from Street View  Imagery|attention-ocr|
 |17|[1704.04861](http://cn.arxiv.org/abs/1704.04861)|MobileNets: Efficient Convolutional Neural Networks for Mobile Vision  Applications||
 |18|[1706.03059](http://cn.arxiv.org/abs/1706.03059)|Depthwise Separable Convolutions for Neural Machine Translation||
 |19|[1706.03762](http://cn.arxiv.org/abs/1706.03762)|Attention Is All You Need||

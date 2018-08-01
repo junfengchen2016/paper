@@ -5,6 +5,8 @@ import time
 from bs4 import BeautifulSoup
 import codecs
 import urllib
+import urllib.request
+
 # from selenium import webdriver
 
 def analysis_html(soup_html):
@@ -69,7 +71,7 @@ def main(argv):
         '1611.02200', '',
         '1703.10593', '',
         '1704.02470', '',
-        '1704.03549', '',
+        '1704.03549', 'attention-ocr',
         '1704.04861', '',
         '1706.03059', '',
         '1706.03762', '',
