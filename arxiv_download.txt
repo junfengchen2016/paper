@@ -13,6 +13,9 @@ http://cn.arxiv.org/pdf/1502.03167v3
 http://cn.arxiv.org/pdf/1503.03832v3
   out=1503.03832v3.pdf
   dir=arxiv
+http://cn.arxiv.org/pdf/1511.06434v2
+  out=1511.06434v2.pdf
+  dir=arxiv
 http://cn.arxiv.org/pdf/1512.00567v3
   out=1512.00567v3.pdf
   dir=arxiv
@@ -37,8 +40,8 @@ http://cn.arxiv.org/pdf/1609.03605v1
 http://cn.arxiv.org/pdf/1611.02200v1
   out=1611.02200v1.pdf
   dir=arxiv
-http://cn.arxiv.org/pdf/1703.10593v4
-  out=1703.10593v4.pdf
+http://cn.arxiv.org/pdf/1703.10593v5
+  out=1703.10593v5.pdf
   dir=arxiv
 http://cn.arxiv.org/pdf/1704.02470v2
   out=1704.02470v2.pdf
@@ -70,8 +73,8 @@ http://cn.arxiv.org/pdf/1708.02002v2
 http://cn.arxiv.org/pdf/1710.10196v3
   out=1710.10196v3.pdf
   dir=arxiv
-http://cn.arxiv.org/pdf/1711.09020v1
-  out=1711.09020v1.pdf
+http://cn.arxiv.org/pdf/1711.09020v2
+  out=1711.09020v2.pdf
   dir=arxiv
 http://cn.arxiv.org/pdf/1712.00559v3
   out=1712.00559v3.pdf
@@ -85,8 +88,8 @@ http://cn.arxiv.org/pdf/1801.09797v1
 http://cn.arxiv.org/pdf/1801.10198v1
   out=1801.10198v1.pdf
   dir=arxiv
-http://cn.arxiv.org/pdf/1802.02611v2
-  out=1802.02611v2.pdf
+http://cn.arxiv.org/pdf/1802.02611v3
+  out=1802.02611v3.pdf
   dir=arxiv
 http://cn.arxiv.org/pdf/1802.05751v3
   out=1802.05751v3.pdf
