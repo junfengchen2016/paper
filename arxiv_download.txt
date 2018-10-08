@@ -1,6 +1,9 @@
 http://cn.arxiv.org/pdf/1312.2249v1
   out=1312.2249v1.pdf
   dir=arxiv
+http://cn.arxiv.org/pdf/1406.2661v1
+  out=1406.2661v1.pdf
+  dir=arxiv
 http://cn.arxiv.org/pdf/1409.1556v6
   out=1409.1556v6.pdf
   dir=arxiv
@@ -39,6 +42,9 @@ http://cn.arxiv.org/pdf/1609.03605v1
   dir=arxiv
 http://cn.arxiv.org/pdf/1611.02200v1
   out=1611.02200v1.pdf
+  dir=arxiv
+http://cn.arxiv.org/pdf/1701.07875v3
+  out=1701.07875v3.pdf
   dir=arxiv
 http://cn.arxiv.org/pdf/1703.10593v5
   out=1703.10593v5.pdf

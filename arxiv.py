@@ -51,12 +51,13 @@ def process(infos):
         list1.append({'id': id, 'title':title, 'version': version, 'note': note})
     # driver.close()
 
-    save_download(list1, 'arxiv_download.txt')
-    save_md(list1, "arxiv.md")
+    save_download(list1, 'paper/arxiv_download.txt')
+    save_md(list1, "paper/arxiv.md")
 
 def main(argv):
     infos = [
         '1312.2249', '',
+        '1406.2661', 'GAN',
         '1409.1556', '',
         '1409.4842', '',
         '1502.03167', '',
@@ -70,6 +71,7 @@ def main(argv):
         '1604.02878', 'mtcnn',
         '1609.03605', '',
         '1611.02200', '',
+        '1701.07875','WGAN',
         '1703.10593', '',
         '1704.02470', '',
         '1704.03549', 'attention-ocr',
